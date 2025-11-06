@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+coverage/
+.vscode/
+.cache/
+*.min.js
+*.bundle.js
+vendor/
