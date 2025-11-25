@@ -199,7 +199,8 @@ nav i {
 } */
 
 main {
-  background: url(../../assets/img/bg.png) repeat;
+  /* background image removed because assets/img/bg.png was not present. Use a neutral background color. */
+  background-color: #f5f5f5;
   padding-left: 190px;
 }
 
