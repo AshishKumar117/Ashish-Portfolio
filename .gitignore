@@ -7,6 +7,6 @@ package-lock.json
 .vscode/
 /.cache
 /.idea
-assets/img/
+*.env
 *.env
 
